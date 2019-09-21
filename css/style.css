@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 50px;
+  color: rgb(187, 182, 182);
+
+  background-image: url('../img/ocQ7MTTSMHE.jpg');
+  background-position: 0 -105px;
+  background-size: cover;
+}
+
+.ha {
+  
+}
