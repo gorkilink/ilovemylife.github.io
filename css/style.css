@@ -8,13 +8,14 @@ body {
 
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 50px;
-  color: rgb(187, 182, 182);
 
   background-image: url('../img/ocQ7MTTSMHE.jpg');
   background-position: 0 -105px;
   background-size: cover;
 }
 
-.ha {
-  
+.ha h1{
+  background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
